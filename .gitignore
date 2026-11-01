@@ -8,6 +8,8 @@ venv/
 .venv/
 env/
 ENV/
+.cache/
+*.log
 
 # Streamlit credentials
 .streamlit/secrets.toml

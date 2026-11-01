@@ -1,0 +1,10 @@
+# Set default behavior to automatically handle line endings
+* text=auto eol=lf
+
+# Explicitly declare text files you want to always be normalized and converted
+*.py text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
